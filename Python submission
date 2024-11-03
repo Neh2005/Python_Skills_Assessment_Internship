@@ -19,7 +19,7 @@ def num(n):
 num(12)
 
 
-#Program to accept any number and print he student name with that id
+#Program to accept any number and print the student name with that id
 
 def dict():
     d1={'id':1,'name':"rajesh"},{'id':2,'name':"rahul"},{'id':3,'name':"sruthi"}
